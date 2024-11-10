@@ -3,7 +3,7 @@ import TodoList from "./components/TodoList";
 import AddTodo from "./components/AddTodo";
 import { VStack, Text } from "@chakra-ui/react";
 import { useState, useEffect } from "react";
-import { ColorModeButton } from "./components/ui/color-mode";
+// import { ColorModeButton } from "./components/ui/color-mode";
 
 const initialTodos = [
   {
